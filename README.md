@@ -41,11 +41,13 @@ To run this project
 
 ## Screenshots
 - Desktop Design (Dark and Light theme)
+
 ![App Screenshot](https://raw.githubusercontent.com/ShreyashParab/Random-Quote-generator-app/master/design/destop_view.PNG)
 
 ![App Screenshot](https://raw.githubusercontent.com/ShreyashParab/Random-Quote-generator-app/master/design/desktop_view__light.PNG)
 
 - Mobile Design (Dark and Light theme)
+
 ![App Screenshot](https://raw.githubusercontent.com/ShreyashParab/Random-Quote-generator-app/master/design/mobile_view.PNG)
 
 ![App Screenshot](https://raw.githubusercontent.com/ShreyashParab/Random-Quote-generator-app/master/design/mobile_view__light.PNG)
