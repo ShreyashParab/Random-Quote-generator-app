@@ -26,6 +26,7 @@ toggle.addEventListener('click',()=>{
         toggleImg.src = 'icons/sun.png'
         document.body.style.backgroundColor = 'hsl(0, 0%, 95%)'
         document.body.style.color = 'black'
+        document.body.style.transition = '2s'
         container.style.backgroundColor = 'hsl(217, 19%, 80%)'
         quoteNumber.style.color = 'hsl(150, 100%, 30%)'
         divider.style.opacity = '1'
